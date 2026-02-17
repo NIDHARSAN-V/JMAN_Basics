@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.root
+{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.header{
+    background-color: rgb(248, 147, 147);
+    font: 700;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.navbar{
+    width: 100%;
+    height:80%;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    padding: 20px;
+    gap: 10%;
+    flex-direction: row;
+    
+}
+
+.navbar .navitems:hover
+{
+    color: black;
+    font-size: 1.2em;
+    transition: all ease-in-out 0.5s;
+}
+
+.navbar .navitems
+{
+    text-decoration: none;
+    color: antiquewhite;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 1.1em;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* //////////////////////////////////// */
+
+
+.hero .heroouter
+{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    max-height: 400px;
+    background-color: rgb(194, 235, 216);
+    box-shadow: inset 2px 2px 5px 5px red;
+}
+
+
+.hero .innerleft
+{
+    height: 100%;
+    width: 100%;
+    padding: 5px;
+    display: flex;
+    background-color:aqua;
+
+    
+}
+
+.hero .innerleft img
+{
+    
+    justify-content: ;
+    
+    
+}
+
+
+.hero .innerleft
+{
+    
+}
+
+
+
+
+
+
+
+

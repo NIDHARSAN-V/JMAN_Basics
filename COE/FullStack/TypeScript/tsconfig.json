@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    /* Language & Environment */
+    "target": "ES2020",
+    "module": "CommonJS",
+
+    /* Project Structure */
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    /* Type Checking */
+    "strict": true,
+
+    /* Node.js Compatibility */
+    "esModuleInterop": true,
+    "types": ["node"],
+
+    /* Build Performance */
+    "skipLibCheck": true
+  }
+}

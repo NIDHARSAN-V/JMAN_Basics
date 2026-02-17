@@ -1,0 +1,45 @@
+Objective(1)
+Create a simple Next.js application that displays users and allows viewing their carts.
+Requirements
+Fetch and Display Users
+Retrieve users from: https://fakestoreapi.com/users
+Display the users in any format (list, cards, etc.).
+Show basic details such as name, or email, etc (you may keep it simple).
+User Navigation
+Each user entry must be clickable.
+Clicking a user should navigate to a page showing that user’s carts.
+Fetch and Display their Carts
+Retrieve posts from: https://fakestoreapi.com/carts
+Display only the carts belonging to the selected user.
+Show the product id and its quantity, along with the ordered time. All present in the same API.
+
+Expected Outcome
+A page listing all the users.
+A separate page displaying the cart of the selected user.
+
+
+=========================================================================== 
+
+Objective(2)
+Create a simple Next.js application that displays users and allows viewing their posts.
+Requirements
+Fetch and Display Users
+Retrieve users from: https://jsonplaceholder.typicode.com/users
+Display the users in any format (list, cards, etc.).
+Show basic details such as name, or email, etc (you may keep it simple).
+User Navigation
+Each user entry must be clickable.
+Clicking a user should navigate to a page showing that user’s posts.
+Fetch and Display Posts
+Retrieve posts from: https://jsonplaceholder.typicode.com/posts
+Display only the posts belonging to the selected user.
+Show the post title and body.
+Expected Outcome
+A page listing all users.
+A separate page displaying posts for the selected user.
+
+
+=====================================================================================================================
+
+
+https://teams.microsoft.com/l/message/19:b8d5688511784400a21d39128d6529a4@thread.v2/1771308615030?context=%7B%22contextType%22%3A%22chat%22%7D
